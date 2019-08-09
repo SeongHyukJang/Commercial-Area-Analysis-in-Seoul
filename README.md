@@ -1,1 +1,1 @@
-# Commercial Area Analysis in Seoul Using Python 
+# Commercial Area Analysis in Seoul
